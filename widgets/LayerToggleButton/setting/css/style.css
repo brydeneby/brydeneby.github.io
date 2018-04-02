@@ -1,0 +1,22 @@
+/* widget-layertogglebutton-setting */
+@import url("LayerSelector.css");
+
+.widget-layertogglebutton-setting{
+  font-size: 14px;
+  color: #596679;
+}
+
+.widget-layertogglebutton-setting .layer-selector-div {
+  min-height: 100px;
+  max-height: 330px;
+  border: 1px solid #d9dde0;
+  border-radius: 1px;
+  overflow: auto;
+}
+
+.widget-layertogglebutton-setting .title {
+  font-size: 14px;
+  color: #596679;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
